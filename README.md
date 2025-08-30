@@ -1,6 +1,6 @@
-# Every Penny
+# Conversor de Moedas
 
-O seu conversor monetário oficial
+Conversor monetário
 
 ## Converta todas as moedas
 
